@@ -79,7 +79,7 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@thinkanddev/rskswap-core@1.0.0":
+"@thinkanddev/rskswap-core@1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@thinkanddev/rskswap-core/-/rskswap-core-1.0.1.tgz#0f9a38c52c734d338825406800efbf10f12b0bc1"
   integrity sha512-Flu8dVzBIvdesU/ZJpbRMolKNTDRJsUhNg8UXALX15cmgpYynUEER62EISyT3K5Od5VrWROAWRpI4p3gBTh/hg==
@@ -5019,9 +5019,9 @@ path-type@^1.0.0:
     pinkie-promise "^2.0.0"
 
 pathval@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/pathval/-/pathval-1.1.0.tgz#b942e6d4bde653005ef6b71361def8727d0645e0"
-  integrity sha1-uULm1L3mUwBe9rcTYd74cn0GReA=
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/pathval/-/pathval-1.1.1.tgz#8534e77a77ce7ac5a2512ea21e0fdb8fcf6c3d8d"
+  integrity sha512-Dp6zGqpTdETdR63lehJYPeIOqpiNBNtc7BpWSLrOje7UaIsE5aY92r/AunQA7rsXvet3lrJ3JnZX29UPTKXyKQ==
 
 pbkdf2@^3.0.3, pbkdf2@^3.0.9:
   version "3.0.17"
